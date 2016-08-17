@@ -1,0 +1,11 @@
+{
+  "name": "antwallsample",
+  "version": "1.0.0",
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "lodash": "^4.14.1",
+    "node-jsx": "^0.13.3",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}
